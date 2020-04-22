@@ -1,0 +1,42 @@
+body{
+  background-color: #e58a8a;
+  /* background-image: url(); */
+}
+
+h1{
+  font-size: 4rem;
+  font-family: 'Josefin Sans', sans-serif;
+  text-shadow: 6px 0 #DA0463;
+}
+
+h2{
+  text-align: center;
+  margin-top: 5px;
+  font-size: 3rem;
+  font-weight: lighter;
+  font-family: 'Lobster', cursive;
+}
+
+.score{
+  text-shadow: none;
+  font-size: 7rem;
+  margin-top: 25px;
+  margin-bottom: 1px;
+  font-family: sans-serif;
+  text-align: center;
+}
+p{
+  font-size: 1.8rem;
+  margin-left: 20px;
+  font-family: 'Dancing Script', cursive;
+  line-height: 0.6;
+}
+
+.firstInput{
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.secondInput{
+  display: inline-block;
+}
